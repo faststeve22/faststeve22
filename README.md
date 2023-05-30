@@ -1,7 +1,5 @@
 # Hi there, I'm Steven Beatty! 👋 
 
-<!--
-
 Welcome to my GitHub profile! My journey into the world of technology started at the young age of 6 with a Commodore 64 and my passion hasn't faltered since. From scouring yard sales for old floppy disks to the pivotal moment of receiving my first AOL free trial CD, my curiosity for the inner workings of tech was piqued and fostered from the start.
 
 ## My Journey 🚀 
@@ -28,4 +26,3 @@ If you are into discussing code, development, skydiving, or photography, I would
 
 Remember, the sky is not the limit, it's just the beginning! 🚀
 
--->
